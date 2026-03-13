@@ -1,6 +1,4 @@
 streamlit
 pandas
-sentence-transformers
-scikit-learn
-matplotlib
 streamlit-autorefresh
+reportlab
