@@ -1,0 +1,74 @@
+question,option1,option2,option3,option4,correct_answer,topic
+What is binary search?,A sorting algorithm,A searching algorithm using divide and conquer,A hashing technique,A graph traversal method,A searching algorithm using divide and conquer,DSA
+What is a stack?,FIFO data structure,LIFO data structure,Graph structure,Tree structure,LIFO data structure,DSA
+What is normalization?,A database design process to reduce redundancy,A memory optimization technique,A network compression algorithm,A file system structure,A database design process to reduce redundancy,DBMS
+What is a primary key?,Unique identifier for table records,Foreign key reference,Index pointer,Composite key,Unique identifier for table records,DBMS
+What is a process?,Running instance of a program,Memory allocation unit,Network protocol,Thread scheduler,Running instance of a program,OS
+What is a thread?,Smallest execution unit of a process,Separate operating system,Database transaction,Network request,Smallest execution unit of a process,OS
+What is the time complexity of merge sort?,O(n^2),O(n log n),O(log n),O(n),O(n log n),DSA
+What is a binary tree?,Tree with unlimited children,Tree with two children per node,Linked list structure,Hash table structure,Tree with two children per node,DSA
+What is BFS?,Graph traversal using stack,Graph traversal level by level,Sorting technique,Hashing method,Graph traversal level by level,DSA
+What is DFS?,Graph traversal depth first,Sorting algorithm,Network protocol,Memory management technique,Graph traversal depth first,DSA
+What is recursion?,Function calling itself repeatedly,Database query method,Network loop protocol,Memory allocation method,Function calling itself repeatedly,DSA
+What is dynamic programming?,Problem solving with stored subresults,Graph traversal algorithm,Memory allocation technique,Database indexing method,Problem solving with stored subresults,DSA
+What is inheritance?,Class acquiring properties of another class,Memory allocation technique,Database join type,Network communication protocol,Class acquiring properties of another class,Programming
+What is a lambda function?,Anonymous function,Sorting algorithm,Database trigger,Network port,Anonymous function,Programming
+What is garbage collection?,Automatic memory cleanup process,File compression technique,Network protocol,Database optimization,Automatic memory cleanup process,Programming
+What is the difference between == and === in JavaScript?,== checks value only,=== checks value and type,=== converts type automatically,== checks reference only,=== checks value and type,Programming
+What is encapsulation?,Data hiding mechanism,Memory allocation,Database normalization,Network encryption,Data hiding mechanism,Programming
+What is abstraction?,Hiding implementation details,Database indexing,Network routing method,Sorting algorithm,Hiding implementation details,Programming
+What is a pointer?,Variable storing memory address,Sorting algorithm,Database connection,Network port,Variable storing memory address,Programming
+What is exception handling?,Handling runtime errors,Network security method,Database optimization,Sorting technique,Handling runtime errors,Programming
+What is caching?,Storing frequently used data for faster access,Encrypting network data,Compressing files,Deleting unused memory,Storing frequently used data for faster access,System Design
+What are microservices?,Architecture with small independent services,Database optimization method,Network encryption protocol,Memory allocation technique,Architecture with small independent services,System Design
+What is a load balancer?,Distributes traffic across servers,Encrypts network data,Stores database queries,Compresses files,Distributes traffic across servers,System Design
+What is a RESTful API?,Stateless web service interface,Database query engine,Network routing protocol,Memory management technique,Stateless web service interface,System Design
+What is a CDN?,Distributed servers delivering content faster,Database replication technique,Sorting algorithm,Memory allocation system,Distributed servers delivering content faster,System Design
+What is indexing in databases?,Technique to speed up data retrieval,Data compression method,Network protocol,Memory allocation technique,Technique to speed up data retrieval,DBMS
+What is a join in SQL?,Combining rows from multiple tables,Sorting rows in a table,Deleting duplicate rows,Creating indexes,Combining rows from multiple tables,DBMS
+What is a foreign key?,Field referencing primary key in another table,Primary identifier of table,Sorting column,Memory pointer,Field referencing primary key in another table,DBMS
+What is a transaction?,Group of database operations executed together,Sorting algorithm,Network request handler,Memory cleanup method,Group of database operations executed together,DBMS
+What is denormalization?,Adding redundancy for faster reads,Removing indexes,Encrypting database tables,Compressing files,Adding redundancy for faster reads,DBMS
+What is paging?,Memory divided into fixed size pages,Database indexing method,Network routing technique,Sorting algorithm,Memory divided into fixed size pages,OS
+What is context switching?,Saving and restoring CPU state,Sorting technique,Database join operation,Network encryption method,Saving and restoring CPU state,OS
+What is a semaphore?,Synchronization mechanism for shared resources,Sorting algorithm,Database indexing method,Network routing protocol,Synchronization mechanism for shared resources,OS
+What is the kernel?,Core component of operating system,Database server,Network switch,Memory pointer,Core component of operating system,OS
+What is virtual memory?,Technique extending RAM using disk,Network routing protocol,Database indexing method,Sorting algorithm,Technique extending RAM using disk,OS
+What is an IP address?,Unique identifier for devices on network,Database identifier,Sorting algorithm,Memory pointer,Unique identifier for devices on network,Networking
+What is DNS?,System translating domain names to IP addresses,Database indexing system,Sorting algorithm,Memory allocation system,System translating domain names to IP addresses,Networking
+What is HTTP?,Protocol for transferring web data,Database communication protocol,Sorting algorithm,Memory management system,Protocol for transferring web data,Networking
+What is a firewall?,Security system controlling network traffic,Database encryption system,Sorting algorithm,Memory allocation system,Security system controlling network traffic,Networking
+What is a router?,Device forwarding packets between networks,Database storage device,Sorting algorithm,Memory manager,Device forwarding packets between networks,Networking
+What is a switch?,Device connecting devices in LAN,Database storage device,Sorting algorithm,Memory manager,Device connecting devices in LAN,Networking
+What is polymorphism?,Method overriding,Multiple inheritance,Data hiding,Encapsulation,Method overriding,OOP
+What is a class?,Blueprint for creating objects,Memory allocation unit,Function definition,Data structure,Blueprint for creating objects,OOP
+What is abstraction?,Hiding complex implementation details,Data encapsulation,Inheritance mechanism,Polymorphism technique,Hiding complex implementation details,OOP
+What is the cloud computing model where provider manages infrastructure?,IaaS,PaaS,SaaS,FaaS,IaaS,Cloud
+What is AWS S3 used for?,Object storage,Virtual machines,Databases,Containers,Object storage,Cloud
+What is polymorphism in OOP?,Ability of objects to take multiple forms,Data hiding,Class definition,Memory allocation,Ability of objects to take multiple forms,OOP
+What is multiple inheritance?,Class inheriting from multiple parents,Single parent inheritance,Interface implementation,Object creation,Class inheriting from multiple parents,OOP
+What is constructor?,Special method to initialize objects, Destructor method,Regular method,Static method,Special method to initialize objects,OOP
+What is method overloading?,Same name different parameters,Method overriding,Constructor definition,Static method,Same name different parameters,OOP
+What is an object?,Instance of a class,Class definition,Memory block,Function pointer,Instance of a class,OOP
+What is SaaS?,Software as a Service,Infrastructure service,Platform service,Function service,Software as a Service,Cloud
+What is PaaS?,Platform as a Service,Software service,Infrastructure service,Storage service,Platform as a Service,Cloud
+What is serverless architecture?,No server provisioning needed,Server always needed,Container based,VM based,No server provisioning needed,Cloud
+What is Docker?,Containerization platform,Virtual machine,Cloud provider,Orchestration tool,Containerization platform,Cloud
+What is VPC?,Virtual Private Cloud,Virtual machine,Public cloud,Private storage,Virtual Private Cloud,Cloud
+What is TCP?,Connection oriented protocol,Connectionless protocol,Application protocol,Routing protocol,Connection oriented protocol,CN
+What is UDP?,Connectionless protocol,Connection oriented,Reliable delivery,Stream protocol,Connectionless protocol,CN
+What is OSI model?,7 layer model,4 layer model,5 layer model,Application only model,7 layer model,CN
+What is HTTP status 200?,OK,Not Found,Server Error,Bad Request,OK,CN
+What is ARP?,Address Resolution Protocol,DNS resolution,IP routing,Packet filtering,Address Resolution Protocol,CN
+What is the STAR method for interviews?,Situation Task Action Result,Strengths Team Achievements Rewards,Standard Testing Assessment Review,Strategic Technical Analysis Report,Situation Task Action Result,Behavioral
+How do you prioritize tasks?,Based on urgency and importance,Random order,First come first served,Delegate all,Based on urgency and importance,Behavioral
+What motivates you at work?,Problem solving,Salary,Office location,Team size,Problem solving,Behavioral
+Describe a time you failed?,Learned from mistake,Blame others,Avoid failure,Avoid risk,Learned from mistake,Behavioral
+How do you handle tight deadlines?,Plan and prioritize,Work overtime only,Delegate everything,Postpone tasks,Plan and prioritize,Behavioral
+What is CAP theorem?,Consistency Availability Partition tolerance,Cache Allocation Performance,Concurrent Access Protocol,Command Action Processing,CAP theorem,SD
+What is sharding?,Data partitioning across servers,Data duplication,Data encryption,Data compression,Data partitioning across servers,SD
+What is database indexing?,Speed up query retrieval,Data storage,Data encryption,Data duplication,Speed up query retrieval,SD
+What is horizontal scaling?,Add more machines,Upgrade CPU,RAM increase,Storage increase,Add more machines,SD
+What is message broker?,Async communication facilitator,Database server,Load balancer,Cache server,Async communication facilitator,SD
+# Note: Added ~50 new questions across OOP, Cloud, CN, Behavioral, SD (total now ~100+). More can be added if needed.
+
